@@ -1,0 +1,64 @@
+Bai, H., Cai, S., Ye, N., Hsu, D., & Lee, W. S. (2015, May). Intention-aware online POMDP planning for autonomous driving in a crowd. In 2015 ieee international conference on robotics and automation (icra) (pp. 454-460). IEEE. （POMDP）
+
+Gipps, P. G. (1986). A model for the structure of lane-changing decisions. Transportation Research Part B: Methodological, 20(5), 403-414. # 重点
+
+Nilsson, J., Brännström, M., Coelingh, E., & Fredriksson, J. (2015, July). Longitudinal and lateral control for automated lane change maneuvers. In 2015 American Control Conference (ACC) (pp. 1399-1404). IEEE. # 重点
+
+Rahman, M., Chowdhury, M., Xie, Y., & He, Y. (2013). Review of microscopic lane-changing models and future research opportunities. IEEE transactions on intelligent transportation systems, 14(4), 1942-1956.
+
+Ji, A., & Levinson, D. (2020). A review of game theory models of lane changing. Transportmetrica A: transport science, 16(3), 1628-1647.
+
+Narote, S. P., Bhujbal, P. N., Narote, A. S., & Dhane, D. M. (2018). A review of recent advances in lane detection and departure warning system. Pattern Recognition, 73, 216-234.
+
+Hatipoglu, C., Ozguner, U., & Redmill, K. A. (2003). Automated lane change controller design. IEEE transactions on intelligent transportation systems, 4(1), 13-22.
+
+Nilsson, J., Brännström, M., Coelingh, E., & Fredriksson, J. (2016). Lane change maneuvers for automated vehicles. IEEE Transactions on Intelligent Transportation Systems, 18(5), 1087-1096.
+
+Nilsson, J., Silvlin, J., Brannstrom, M., Coelingh, E., & Fredriksson, J. (2016). If, when, and how to perform lane change maneuvers on highways. IEEE Intelligent Transportation Systems Magazine, 8(4), 68-78.
+
+Schubert, R., Schulze, K., & Wanielik, G. (2010). Situation assessment for automatic lane-change maneuvers. IEEE Transactions on Intelligent Transportation Systems, 11(3), 607-616.
+
+Luo, Y., Xiang, Y., Cao, K., & Li, K. (2016). A dynamic automated lane change maneuver based on vehicle-to-vehicle communication. Transportation Research Part C: Emerging Technologies, 62, 87-102.
+
+Butakov, V. A., & Ioannou, P. (2014). Personalized driver/vehicle lane change models for ADAS. IEEE Transactions on Vehicular Technology, 64(10), 4422-4431.
+
+Dang, H. Q., Fürnkranz, J., Biedermann, A., & Hoepfl, M. (2017, October). Time-to-lane-change prediction with deep learning. In 2017 IEEE 20th International Conference on Intelligent Transportation Systems (ITSC) (pp. 1-7). IEEE.
+
+Zhou, B., Wang, Y., Yu, G., & Wu, X. (2017). A lane-change trajectory model from drivers’ vision view. Transportation Research Part C: Emerging Technologies, 85, 609-627.
+
+Vallon, C., Ercan, Z., Carvalho, A., & Borrelli, F. (2017, June). A machine learning approach for personalized autonomous lane change initiation and control. In 2017 IEEE Intelligent vehicles symposium (IV) (pp. 1590-1595). IEEE.
+
+Habenicht, S., Winner, H., Bone, S., Sasse, F., & Korzenietz, P. (2011, June). A maneuver-based lane change assistance system. In 2011 IEEE Intelligent Vehicles Symposium (IV) (pp. 375-380). IEEE.
+
+Chee, W., & Tomizuka, M. (1994, June). Lane change maneuver of automobiles for the intelligent vehicle and highway system (IVHS). In Proceedings of 1994 American Control Conference-ACC'94 (Vol. 3, pp. 3586-3587). IEEE.
+
+Knoop, V. L., Hoogendoorn, S. P., Shiomi, Y., & Buisson, C. (2012). Quantifying the number of lane changes in traffic: Empirical analysis. Transportation research record, 2278(1), 31-41.
+
+Hou, Y., Edara, P., & Sun, C. (2015). Situation assessment and decision making for lane change assistance using ensemble learning methods. Expert Systems with Applications, 42(8), 3875-3882.
+
+Dang, R., Wang, J., Li, S. E., & Li, K. (2015). Coordinated adaptive cruise control system with lane-change assistance. IEEE Transactions on Intelligent Transportation Systems, 16(5), 2373-2383.
+
+Bevly, D., Cao, X., Gordon, M., Ozbilgin, G., Kari, D., Nelson, B., ... & Ozguner, U. (2016). Lane change and merge maneuvers for connected and automated vehicles: A survey. IEEE Transactions on Intelligent Vehicles, 1(1), 105-120.
+
+Li, G., Yang, Y., Li, S., Qu, X., Lyu, N., & Li, S. E. (2022). Decision making of autonomous vehicles in lane change scenarios: Deep reinforcement learning approaches with risk awareness. Transportation research part C: emerging technologies, 134, 103452.
+
+
+Lv, W., Song, W. G., & Fang, Z. M. (2011). Three-lane changing behaviour simulation using a modified optimal velocity model. Physica A: Statistical Mechanics and its Applications, 390(12), 2303-2314.
+Rahman, M., Chowdhury, M., Xie, Y., & He, Y. (2013). Review of microscopic lane-changing models and future research opportunities. IEEE transactions on intelligent transportation systems, 14(4), 1942-1956.
+Talebpour, A., & Mahmassani, H. S. (2016). Influence of connected and autonomous vehicles on traffic flow stability and throughput. Transportation research part C: emerging technologies, 71, 143-163.
+Mahmassani, H. S. (2016). 50th anniversary invited article—Autonomous vehicles and connected vehicle systems: Flow and operations considerations. Transportation Science, 50(4), 1140-1162.
+Zhu, W. X., & Zhang, H. M. (2018). Analysis of mixed traffic flow with human-driving and autonomous cars based on car-following model. Physica A: Statistical Mechanics and its Applications, 496, 274-285.
+VanderWerf, J., Shladover, S., Kourjanskaia, N., Miller, M., & Krishnan, H. (2001). Modeling effects of driver control assistance systems on traffic. Transportation Research Record, 1748(1), 167-174.
+Li, Z., Li, W., Xu, S., & Qian, Y. (2015). Stability analysis of an extended intelligent driver model and its simulations under open boundary condition. Physica A: Statistical Mechanics and its Applications, 419, 526-536.
+Wen-Xing, Z., & Li-Dong, Z. (2018). A new car-following model for autonomous vehicles flow with mean expected velocity field. Physica A: Statistical Mechanics and its Applications, 492, 2154-2165.
+Xiao, Y., Liu, Y., Song, X., & Wu, Y. (2021). Linked vehicle model: A simple car-following model for automated vehicles. Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, 235(2-3), 854-870.
+You, F., Zhang, R., Lie, G., Wang, H., Wen, H., & Xu, J. (2015). Trajectory planning and tracking control for autonomous lane change maneuver based on the cooperative vehicle infrastructure system. Expert Systems with Applications, 42(14), 5932-5946.
+Luo, Y., Xiang, Y., Cao, K., & Li, K. (2016). A dynamic automated lane change maneuver based on vehicle-to-vehicle communication. Transportation Research Part C: Emerging Technologies, 62, 87-102.
+Nilsson, J., Brännström, M., Coelingh, E., & Fredriksson, J. (2015, July). Longitudinal and lateral control for automated lane change maneuvers. In 2015 American Control Conference (ACC) (pp. 1399-1404). IEEE.
+
+
+
+
+
+
+
